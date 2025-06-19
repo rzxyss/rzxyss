@@ -50,9 +50,5 @@ Web apps, SaaS platforms, and tech writing about Laravel/React
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rzxyss&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzxyss&layout=compact&theme=radical" />
 </p>
